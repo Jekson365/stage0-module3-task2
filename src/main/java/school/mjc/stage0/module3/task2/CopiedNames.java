@@ -5,7 +5,7 @@ public class CopiedNames {
         int variable = 0;
         int variablee = 2000;
         int value = 1000;
-        int variablee = 4000;
+        int variableee = 4000;
         int value2 = 3000;
         int variables = 5000;
         int variabless = 7000;
